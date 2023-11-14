@@ -17,5 +17,5 @@ What to expect from this app,
 This App uses a free api key. User may experience issues due to the limit on Api request. 
 
 ## Quick Look
-![App video]()
+![App video](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWk0MGQ2NGk4Y2d0cXRjMzJtYWFoMWowZmFhZ3FuOTI3Yms3YnNqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iRGdBOWcod7UvGtGrU/giphy.gif)
  
