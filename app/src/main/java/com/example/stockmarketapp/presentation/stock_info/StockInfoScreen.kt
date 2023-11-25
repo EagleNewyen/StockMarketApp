@@ -99,7 +99,7 @@ fun  StockInfoScreen(
                 text = stock.description,
                 maxLines =
                 when (maxline) {
-                    false -> 7
+                    false -> 3
                     else -> Int.MAX_VALUE
                                },
                 overflow = TextOverflow.Ellipsis,
@@ -108,10 +108,11 @@ fun  StockInfoScreen(
                     .fillMaxWidth()
                     .clickable { maxline = !maxline }
             )
+            Spacer(modifier = Modifier.height(8.dp))
             Text(
                 text = when (maxline) {
-                    false -> "..show more"
-                    else -> "..show less"
+                    false -> "..more"
+                    else -> "Show less"
                                        },
                 fontSize = 11.sp,
                 modifier = Modifier
