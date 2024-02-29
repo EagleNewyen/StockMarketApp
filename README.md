@@ -4,11 +4,11 @@
 ## Preface
 Displays a global scale of stock market data for any chosen company through API from https://www.alphavantage.co/  <br>
 
-## About
+## Features
 
-What to expect from this app: 
-* Search field to find a specifc company.
-* Company information and data for monthly highs with a visual chart!
+- Stock data: View real-time stock prices and related information.
+- Stock chart: Visualize stock price trends with interactive charts.
+- Responsive design: Access the application from various devices with ease.
 
 <br>
 This App uses a free api key. User may experience issues due to the limit on Api request. 
