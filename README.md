@@ -7,7 +7,7 @@ Displays a global scale of stock market data for any chosen company through API 
 ## About
 
 What to expect from this app: 
-* Search field to search for a specifc company.
+* Search field to find a specifc company.
 * Company information and data for monthly highs with a visual chart!
 
 <br>
