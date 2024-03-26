@@ -29,6 +29,7 @@ To get started with this project, follow these steps:
 * Jetpack Compose
 * Android Studio
 * Retrofit/Room
+* JUnit5/Testing
 
 ## Contributing
 Contributions are welcome! If you find any bugs or want to suggest improvements, please open an issue or submit a pull request.
