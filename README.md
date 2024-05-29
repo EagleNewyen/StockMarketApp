@@ -27,7 +27,7 @@ To get started with this project, follow these steps:
 ## Technologies Used
 * Kotlin
 * Jetpack Compose
-* Android Studio
+* Clean Architecture 
 * Retrofit/Room
 * JUnit5/Testing
 
