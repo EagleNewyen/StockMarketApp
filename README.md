@@ -1,6 +1,11 @@
 # StockMarketApp
 
 
+## Quick Look
+![App video](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWk0MGQ2NGk4Y2d0cXRjMzJtYWFoMWowZmFhZ3FuOTI3Yms3YnNqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iRGdBOWcod7UvGtGrU/giphy.gif)
+ 
+
+
 ## Preface
 Displays a global scale of stock market data for any chosen company through API from https://www.alphavantage.co/  <br>
 
@@ -36,6 +41,3 @@ Contributions are welcome! If you find any bugs or want to suggest improvements,
 
 
 
-## Quick Look
-![App video](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWk0MGQ2NGk4Y2d0cXRjMzJtYWFoMWowZmFhZ3FuOTI3Yms3YnNqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iRGdBOWcod7UvGtGrU/giphy.gif)
- 
