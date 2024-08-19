@@ -1,4 +1,4 @@
-# StockMarketApp
+ # StockMarketApp
 
 <p align="center">
 
