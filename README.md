@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://github.com/user-attachments/assets/9e162cc5-dbe2-463d-890f-ae41bf05c0e0" alt="matrix" />
+<img src="https://github.com/user-attachments/assets/dbbe2028-5e6e-4354-b7ea-bfbe39c35350" alt="matrix" />
 
 </p>
 
