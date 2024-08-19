@@ -1,5 +1,10 @@
 # StockMarketApp
 
+<p align="center">
+
+<img src="https://github.com/user-attachments/assets/9e162cc5-dbe2-463d-890f-ae41bf05c0e0" alt="matrix" />
+
+</p>
 
 ## Quick Look
 ![App video](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWk0MGQ2NGk4Y2d0cXRjMzJtYWFoMWowZmFhZ3FuOTI3Yms3YnNqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iRGdBOWcod7UvGtGrU/giphy.gif)
