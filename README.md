@@ -1,4 +1,4 @@
- # StockMarketApp
+ # StockMarketLite
 
 <p align="center">
 
