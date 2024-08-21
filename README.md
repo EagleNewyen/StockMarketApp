@@ -1,8 +1,8 @@
- # StockMarketLite
+ # StockMarket-Compose
 
 <p align="center">
 
-<img src="https://github.com/user-attachments/assets/dbbe2028-5e6e-4354-b7ea-bfbe39c35350" alt="matrix" />
+<img src="https://github.com/user-attachments/assets/c0cd06e4-fada-4310-9262-30f17143799a" alt="matrix" />
 
 </p>
 
