@@ -19,9 +19,9 @@ Displays a global scale of stock market data for any chosen company through API 
 - Stock data: View real-time stock prices and related information.
 - Stock chart: Visualize stock price trends with interactive charts.
 - Responsive design: Access the application from various devices with ease.
-
 <br>
-This App uses a free api key. User may experience issues due to the limit on Api request. 
+
+*This App uses a free api key. User may experience issues due to the limit on Api request*
 
 
 ## Getting Started
