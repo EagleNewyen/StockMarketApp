@@ -11,9 +11,16 @@
  
 
 
-## Preface
-Displays a global scale of stock market data for any chosen company through API from https://www.alphavantage.co/  <br>
+## Open API
 
+
+<img src="https://github.com/user-attachments/assets/7683ba1d-39ab-41fd-b61f-7c111771603d" align="right" width="21%"/>
+
+StockMarketLite using the [AlphaVantage](https://www.alphavantage.co/) for constructing RESTful API.<br>
+AlphaVantage provides a RESTful API interface to highly detailed objects built from thousands of lines of data related to the stock market.
+
+
+## Preface
 *This App uses a free api key. User may experience issues due to the limit on Api request*
 
 ## Features
