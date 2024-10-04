@@ -40,7 +40,7 @@ To get started with this project, follow these steps:
 
 
 ## Technologies Used
-* Kotlin
+* [Kotlin](https://kotlinlang.org/) based, utilizing [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) + [Flow](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/) for asynchronous operations.
 * Jetpack Compose
 * Clean Architecture/MVVM
 * Retrofit/Room
